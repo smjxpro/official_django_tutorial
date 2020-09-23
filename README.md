@@ -1,4 +1,4 @@
-# django_boot
+# Official Django Tutorial
 Writing first Django app
 
 A public site that lets people view polls and vote in them.
